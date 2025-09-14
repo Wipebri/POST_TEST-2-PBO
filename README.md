@@ -36,7 +36,7 @@ Jika user menginput angka 2 atau memilih Lihat Daftar Desain, program akan menam
 <img width="615" height="432" alt="image" src="https://github.com/user-attachments/assets/49c22c87-cf02-4c91-b101-669cfa0dc6d7" />
 
 
-Jika user menginput angka 3 atau memilih Ubah/Perbaiki Pengajuan, program akan meminta user memasukkan nomor urut dari pengajuan desain yang ingin di ubah atau diperbaiki berdasarkan daftar desain. jika user sudah memilih, user akan diminta memasukkan data terbaru seperti jenis desain yang ingin dibuatkan (contoh: Banner. Plakat, dll), link referensi jika ada, nama pengaju desain, kontak yang dapat dihubungi, dan deadline pengerjaannya (contoh: 9 September 2025). pada contoh user hanya mengubah bagian link referensi dan deadline dari desain yang diajukan.
+Jika user menginput angka 3 atau memilih Ubah/Perbaiki Pengajuan, program akan meminta user memasukkan nomor urut dari pengajuan desain yang ingin di ubah atau diperbaiki berdasarkan daftar desain. jika user sudah memilih, user akan diminta memasukkan data terbaru seperti jenis desain yang ingin dibuatkan (contoh: Banner. Plakat, dll), link referensi jika ada, nama pengaju desain, kontak yang dapat dihubungi, dan deadline pengerjaannya (contoh: 9 September 2025). pada contoh user mengubah bagian jenis desain, link referensi, dan deadline dari desain yang diajukan.
 
 Sebelum:
 
@@ -46,8 +46,32 @@ Sesudah :
 
 <img width="429" height="751" alt="image" src="https://github.com/user-attachments/assets/23c82842-cda1-45fb-b0d9-ab7a51d8e3d5" />
 
-Dari gambar di atas terlihat jenis desain, link refrensi dan deadline desain yang diajukan di desain 3 sudah berubah.
+Dari gambar di atas terlihat jenis desain, link refrensi, dan deadline desain yang diajukan di desain 3 sudah berubah.
 
 ## 4. Hapus Pengajuan
 
-<img width="564" height="679" alt="image" src="https://github.com/user-attachments/assets/e0f8aad9-913f-48cc-be9b-a31053c263f6" />
+<img width="532" height="315" alt="image" src="https://github.com/user-attachments/assets/63e00bef-771c-461d-97e8-0c896909a3f7" />
+
+Jika user menginput angka 4 atau memilih Hapus Pengajuan, program akan meminta user memasukkan nomor urut dari pengajuan desain yang ingin di Hapus berdasarkan daftar desain. Pada gambar diatas user ingin menghapus/membatalkan pengajuan desain ke-2 yaitu plakat GTA.
+
+sebelum:
+
+<img width="490" height="754" alt="image" src="https://github.com/user-attachments/assets/239fb7da-6e92-4eac-8c57-cd4a06657ad9" />
+
+Sesudah:
+
+<img width="494" height="567" alt="image" src="https://github.com/user-attachments/assets/b3681756-74fd-4764-a9ab-7da412a6922d" />
+
+Pada gambar gambar diatas terlihat saat user mengecek daftar pengajuan desain, pengajuan desain plakat GTA telah terhapus.
+
+## 5. Cari Pengajuan Desain
+
+<img width="534" height="440" alt="image" src="https://github.com/user-attachments/assets/a0898454-57a8-4b8e-ac21-7d0bd75e44ae" />
+
+Jika user menginput angka 5 atau memilih Cari Pengajuan Desain, program akan meminta user memasukkan keyword untuk mencari berdarkan jenis desain atau nama yang mengajukan desain. Pada gambar user memasukan keyword "kc", maka muncul desain yang diajukan yardan yaitu Banner KC.
+
+## 6. Keluar
+
+<img width="801" height="375" alt="image" src="https://github.com/user-attachments/assets/8d67607e-90af-4bb0-9568-b0177ff20e8a" />
+
+Jika user menginput angka 6 atau memilih Keluar, maka program selesai.
