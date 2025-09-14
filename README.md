@@ -68,7 +68,7 @@ Pada gambar gambar diatas terlihat saat user mengecek daftar pengajuan desain, p
 
 <img width="534" height="440" alt="image" src="https://github.com/user-attachments/assets/a0898454-57a8-4b8e-ac21-7d0bd75e44ae" />
 
-Jika user menginput angka 5 atau memilih Cari Pengajuan Desain, program akan meminta user memasukkan keyword untuk mencari berdarkan jenis desain atau nama yang mengajukan desain. Pada gambar user memasukan keyword "kc", maka muncul desain yang diajukan yardan yaitu Banner KC.
+Jika user menginput angka 5 atau memilih Cari Pengajuan Desain, program akan meminta user memasukkan keyword untuk mencari berdasarkan jenis desain atau nama yang mengajukan desain. Pada gambar user memasukan keyword "kc", maka muncul desain yang diajukan yardan yaitu Banner KC.
 
 ## 6. Keluar
 
