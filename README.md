@@ -20,9 +20,9 @@ Program ini menggunakan konsep MVC yang dipisahkan ke dalam tiga package utama.
 
    berisi class Sistem yang menjalankan logika utama aplikasi, seperti operasi CRUD (Create, Read, Update, Delete) dan fitur pencarian (search), sehingga bagian ini bertindak sebagai Controller yang mengatur jalannya data.
 
-3. package main
+3. package main atau pengajuan_desain_cominfo
 
-   berisi class Main yang berfungsi sebagai titik masuk (entry point) program dan menyediakan menu interaktif untuk pengguna, sehingga bagian ini berperan sebagai View.
+   berisi class Main yang berfungsi sebagai penjalan program dan menyediakan menu interaktif untuk pengguna, sehingga bagian ini berperan sebagai View.
 
 # PENJELASAN ALUR PROGRAM
 ## Menu Utama
