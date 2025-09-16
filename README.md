@@ -7,6 +7,23 @@ Departemen Communication and Media Information atau bisa disingkat COMINFO merup
 
 Sebagai bentuk dukungan terhadap kebutuhan desain publikasi di lingkungan himpunan, Departemen COMINFO membuka layanan pengajuan desain bagi departemen lain. Untuk mempermudah proses tersebut, dibangunlah Sistem Pengajuan Desain Departemen COMINFO. Sistem ini dirancang untuk Mempermudah pengelolaan pengajuan desain agar lebih terstruktur dan terorganisir, Meningkatkan efisiensi kerja tim desain COMINFO dalam menyelesaikan setiap permintaan. Dengan adanya sistem ini, setiap departemen dapat mengajukan kebutuhan desain mereka secara mudah, dan cepat sehingga dapat mendukung kelancaran kegiatan INFORSA secara profesional.
 
+# PENJELASAN STRUKTUR PACKAGES
+
+<img width="560" height="218" alt="image" src="https://github.com/user-attachments/assets/fdce79ba-0ba7-4599-89d3-2868e236e361" />
+
+Program ini menggunakan konsep MVC yang dipisahkan ke dalam tiga package utama. 
+1. Package model
+
+   berisi class Pengajuan yang merepresentasikan data atau entitas dari sistem, lengkap dengan atribut dan constructor untuk menyimpan informasi pengajuan desain. 
+
+2. Package service
+
+   berisi class Sistem yang menjalankan logika utama aplikasi, seperti operasi CRUD (Create, Read, Update, Delete) dan fitur pencarian (search), sehingga bagian ini bertindak sebagai Controller yang mengatur jalannya data.
+
+3. package main
+
+   berisi class Main yang berfungsi sebagai titik masuk (entry point) program dan menyediakan menu interaktif untuk pengguna, sehingga bagian ini berperan sebagai View.
+
 # PENJELASAN ALUR PROGRAM
 ## Menu Utama
 
